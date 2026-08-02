@@ -44,7 +44,7 @@ budget contraint :
 
 ## 2. Hypothèses de travail (à assumer explicitement)
 
-Le jeu de données ADEME couvre **environ 336 000 logements F/G** en
+Le jeu de données ADEME couvre **environ 318 000 logements F/G** en
 Île-de-France, un volume nettement supérieur au parc réel d'un bailleur
 intermédiaire type (de l'ordre de 80 000 logements toutes classes
 confondues). Le projet est donc traité comme un **cas d'usage
