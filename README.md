@@ -23,8 +23,8 @@ locatif tant que les travaux n'ont pas été réalisés.
 La question posée par ce projet est celle d'un responsable data face à un
 budget contraint :
 
-> *"On a un budget limité et des milliers de logements F et G répartis sur
-> tout le territoire. On ne peut pas tout rénover d'un coup. Quels logements
+> *"Un bailleur a un budget limité et des milliers de logements F et G répartis sur
+> tout le territoire. Il ne peut pas tout rénover d'un coup. Quels logements
 > rénover en premier pour maximiser le nombre de biens remis sur le marché
 > locatif, sans dépasser le budget ?"*
 
