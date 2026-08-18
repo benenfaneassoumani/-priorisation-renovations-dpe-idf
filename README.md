@@ -50,8 +50,7 @@ intermédiaire type (de l'ordre de 80 000 logements toutes classes
 confondues). Le projet est donc traité comme un **cas d'usage
 méthodologique généralisable**, applicable à n'importe quel bailleur social
 ou intermédiaire d'Île-de-France, plutôt que comme l'audit exact d'un
-patrimoine précis. Ce point est assumé et doit être présenté comme tel en
-entretien plutôt que dissimulé.
+patrimoine précis.
 
 Les hypothèses chiffrées utilisées dans les calculs sont les suivantes :
 
