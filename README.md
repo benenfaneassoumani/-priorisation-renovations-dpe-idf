@@ -15,7 +15,7 @@ F et G (DPE) sous contrainte de budget, à partir des données ouvertes ADEME.
 
 Depuis janvier 2025, un bailleur qui possède un logement classé **G** au DPE
 n'a plus la possibilité de le proposer à la location. Il en ira de même pour
-les logements classés **F** à partir de 2028 (loi Climat et Résilience).
+les logements classés **F** à partir de 2028 .
 Pour un bailleur, chaque logement G non rénové est un **actif échoué** : un
 bien qui existe dans le patrimoine mais qui ne génère plus aucun revenu
 locatif tant que les travaux n'ont pas été réalisés.
